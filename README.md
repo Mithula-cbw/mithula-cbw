@@ -1,7 +1,5 @@
 # Hi, I'm MITHULA 👋  
 
-#### *Passionate about creating sustainable, user-centered solutions* ⛧ *blending clean and impactful design with **AI, IoT, Mixed Reality**, and digital innovation.*
-
 I have experience in **scalable full-stack development**, with a strong drive to perfect everything I do. Hard-working, creative, and ambitious, I embrace challenges and thrive in both leadership and collaborative roles. I value **organization, structure, and teamwork**, always striving to improve both processes and results.  
 
 ### 📫 Let's Connect
