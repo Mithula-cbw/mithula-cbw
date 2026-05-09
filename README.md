@@ -15,9 +15,9 @@
 
 <br/>
 
-![Mithula's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithula-chanthuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED)
+![Mithula's GitHub stats](https://github-readme-stats.vercel.app/api?username=mithula-cbw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithula-chanthuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mithula-cbw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" width="100%"/>
 
