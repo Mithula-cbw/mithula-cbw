@@ -1,12 +1,13 @@
 <h1 align="left">Hi, I'm <span style="color:#7C3AED;">Mithula</span> 👋</h1>
 
 <p align="left">
-  <b>Web Developer Intern | Computer Science Undergraduate</b><br>
-  🚀 Passionate about <b style="color:#EAB308;">Artificial Intelligence (AI)</b> and <b style="color:#22D3EE;">Mixed/Augmented Reality (MR/AR)</b>
+  <b>Computer Science Undergraduate | Aspiring Problem Solver</b><br>
+  🏗️ Drawn to <b style="color:#EAB308;">Solution Architecture</b>, <b style="color:#22D3EE;">Product Management</b> & <b style="color:#F472B6;">UI/UX Design</b>
 </p>
 
 <p align="left">
-  Driven by creativity, precision, and teamwork with a strong drive to <b>perfect everything I do</b>.
+  I don't just build things — I figure out the <b>right thing to build</b>.<br>
+  Driven by curiosity, obsessed with people, and allergic to "good enough".
 </p>
 
 <p align="left">
