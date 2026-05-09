@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  I don't just build things — I figure out the <b>right thing to build</b>.<br>
+  I don't just build things, I figure out the <b>right thing to build</b>.<br>
   Driven by curiosity, obsessed with people, and allergic to "good enough".
 </p>
 
