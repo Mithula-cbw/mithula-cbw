@@ -1,22 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=968372&height=120&section=header&text=Hi,%20I'm%20Mithula%20👋&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+```
+P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
+```
 
-<p align="left">
-  <b>Computer Science Undergraduate | Aspiring Problem Solver</b><br>
-  🏗️ Drawn to <b style="color:#EAB308;">Solution Architecture</b>, <b style="color:#22D3EE;">Product Management</b> & <b style="color:#F472B6;">UI/UX Design</b>
-</p>
+# Mithula Chanthuka
+**Solution Architecture · Product · Consulting**
 
-<p align="left">
-  I don't just build things, I figure out the <b>right thing to build</b>.<br>
-  Driven by curiosity, obsessed with people, and allergic to "good enough".
-</p>
 
-<p align="left">
-  <a href="mailto:mithula.cbw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
-  </a>
-  <a href="https://www.linkedin.com/in/mithula-chanthuka/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-B8924A?style=flat-square&logoColor=white)](https://portfolio-mithula-cbw-25.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=B8924A)](https://linkedin.com/in/mithula-chanthuka)
+[![Email](https://img.shields.io/badge/hello@yourname.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
+
+</div>
+
+---
+
+```
+· Systems thinker. Calm under pressure. Precise in execution.
+· I identify the right problem before writing a single line.
+· Believe discipline and beauty are the same thing, expressed differently.
+```
+
+---
+
+**Currently building toward** → Solution Architecture · PM · Tech Consulting
+
+
+<!-- **Reading** → *Norwegian Wood* — Haruki Murakami -->
+**Working on** → *Refilla Arc* — a VS Code extension ecosystem for intelligent AI quota and account workflow management.
+**Available** → 2026 · Open to internships & graduate roles
