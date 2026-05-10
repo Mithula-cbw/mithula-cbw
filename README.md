@@ -16,11 +16,9 @@ P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 
 ---
 
-```
-· Systems thinker. Calm under pressure. Precise in execution.
-· I identify the right problem before writing a single line.
-· Believe discipline and beauty are the same thing, expressed differently.
-```
+> · Systems thinker. Calm under pressure. Precise in execution.
+> · I identify the right problem before writing a single line.
+> · Believe discipline and beauty are the same thing, expressed differently.
 
 ---
 
