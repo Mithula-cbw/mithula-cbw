@@ -20,12 +20,8 @@ P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 </pre>
 
 ---
-
-**Currently building toward** → Solution Architecture · PM · Tech Consulting
-
-
-<!-- **Reading** → *Norwegian Wood* — Haruki Murakami -->
-
-**Working on** → *Refilla Arc* — a VS Code extension ecosystem for intelligent AI quota and account workflow management.
-
-**Available** → 2026 · Open to internships & graduate roles
+<div align="right"> 
+  
+Building toward → Solution Architecture · PM · Tech Consulting  
+Working on → *Refilla Arc* · a VS Code extension for intelligent AI quota management  
+Available → 2026 · internships & graduate roles
