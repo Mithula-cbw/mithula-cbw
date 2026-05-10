@@ -8,9 +8,7 @@ P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 **Solution Architecture · Product · Consulting**
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-B8924A?style=flat-square&logoColor=white)](https://portfolio-mithula-cbw-25.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=B8924A)](https://linkedin.com/in/mithula-chanthuka)
-[![Email](https://img.shields.io/badge/mithula.cbw@gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-B8924A?style=flat-square&logoColor=white)](https://portfolio-mithula-cbw-25.vercel.app/) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8924A?style=flat-square&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com/in/mithula-chanthuka) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/mithula.cbw@gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
 
 </div>
 
