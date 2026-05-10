@@ -10,7 +10,7 @@ P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-B8924A?style=flat-square&logoColor=white)](https://portfolio-mithula-cbw-25.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=B8924A)](https://linkedin.com/in/mithula-chanthuka)
-[![Email](https://img.shields.io/badge/hello@yourname.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
+[![Email](https://img.shields.io/badge/mithula.cbw@gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
 
 </div>
 
