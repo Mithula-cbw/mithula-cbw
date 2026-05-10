@@ -20,7 +20,7 @@ P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 </pre>
 
 ---
-<div align="right"> 
+<div align="left"> 
   
 Building toward → Solution Architecture · PM · Tech Consulting  
 Working on → *Refilla Arc* · a VS Code extension for intelligent AI quota management  
