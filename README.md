@@ -1,18 +1,16 @@
 <div align="center">
-
 <pre>
 P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 </pre>
 
 # Mithula Chanthuka
-**Product · Solution Architecture · AI Automation**
+**AI Engineering · System Architecture · Product Thinking**
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-B8924A?style=flat-square&logoColor=white)](https://portfolio-mithula-cbw-25.vercel.app/) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8924A?style=flat-square&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com/in/mithula-chanthuka) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/mithula.cbw@gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-B8924A?style=flat-square&logoColor=white)](https://mithulachanthuka.com) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8924A?style=flat-square&logo=linkedin&logoColor=0D0D0D)](https://linkedin.com/in/mithulachanthuka) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/mithula.cbw@gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=B8924A)](mailto:mithula.cbw@gmail.com)
 </div>
 
 ---
+
 <pre>
 · Systems thinker. Calm under pressure. Precise in execution.  
 · I identify the right problem before writing a single line.  
@@ -20,8 +18,9 @@ P R E C I S E .   E L E G A N T .   D E P E N D A B L E .
 </pre>
 
 ---
-<div align="left"> 
-  
-At the intersection of product, architecture, and AI.  
-Working on Refilla Arc · a VS Code extension for AI quota management  
-Available 2026 · internships & graduate roles  
+
+At the intersection of product thinking, system architecture, and AI.
+
+Currently building AI automation systems in production.
+
+🔱 PEGASUS
